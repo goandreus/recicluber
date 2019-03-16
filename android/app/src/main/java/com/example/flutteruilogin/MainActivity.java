@@ -1,4 +1,4 @@
-package com.example.recicluber;
+package com.example.flutteruilogin;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
