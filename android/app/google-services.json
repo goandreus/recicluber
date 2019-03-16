@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242841536020",
+    "firebase_url": "https://recicluber.firebaseio.com",
+    "project_id": "recicluber",
+    "storage_bucket": "recicluber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242841536020:android:8babc65cc582fc15",
+        "android_client_info": {
+          "package_name": "com.example.recicluber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242841536020-alkquplqcjlaqm6odo1tsbh3opjicrv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWNJzWviMdevNGHitY2LElQv-p24-Mkzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
