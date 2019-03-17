@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:242841536020:android:8babc65cc582fc15",
+        "mobilesdk_app_id": "1:242841536020:android:2445dd268dd7ce62",
         "android_client_info": {
-          "package_name": "com.example.recicluber"
+          "package_name": "com.example.flutteruilogin"
         }
       },
       "oauth_client": [
