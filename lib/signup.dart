@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_login/map.dart';
+import 'package:flutter_ui_login/screen/map.dart';
 
 class SignupPage extends StatefulWidget {
   @override
